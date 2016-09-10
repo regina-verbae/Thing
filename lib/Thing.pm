@@ -8,6 +8,8 @@ package Thing;
 use v5.10;
 use warnings;
 
+our $VERSION = '0.001';
+
 use Path::Tiny;
 
 #####################################################################
